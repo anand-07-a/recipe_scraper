@@ -1,0 +1,315 @@
+2025-07-11 23:24:01,282 - INFO - Processing site: https://101cookbooks.com/
+2025-07-11 23:24:09,559 - WARNING - Request failed for https://www.101cookbooks.com/salad-recipes/: 403 Client Error: Forbidden for url: https://www.101cookbooks.com/salad-recipes/
+2025-07-11 23:24:09,562 - INFO - Total recipes: 0/500
+2025-07-11 23:24:13,092 - WARNING - Request failed for https://www.101cookbooks.com/vegan-recipes/: 403 Client Error: Forbidden for url: https://www.101cookbooks.com/vegan-recipes/
+2025-07-11 23:24:13,095 - INFO - Total recipes: 0/500
+2025-07-11 23:24:16,139 - WARNING - Request failed for https://www.101cookbooks.com/holiday_recipes: 403 Client Error: Forbidden for url: https://www.101cookbooks.com/holiday_recipes
+2025-07-11 23:24:16,144 - INFO - Total recipes: 0/500
+2025-07-11 23:24:19,518 - WARNING - Request failed for https://www.101cookbooks.com/vegetarian_recipes: 403 Client Error: Forbidden for url: https://www.101cookbooks.com/vegetarian_recipes
+2025-07-11 23:24:19,522 - INFO - Total recipes: 0/500
+2025-07-11 23:24:28,637 - WARNING - Request failed for https://www.101cookbooks.com/whole_grain_recipes: 403 Client Error: Forbidden for url: https://www.101cookbooks.com/whole_grain_recipes
+2025-07-11 23:24:28,640 - INFO - Total recipes: 0/500
+2025-07-11 23:24:31,881 - WARNING - Request failed for https://www.101cookbooks.com/soup-recipes/: 403 Client Error: Forbidden for url: https://www.101cookbooks.com/soup-recipes/
+2025-07-11 23:24:31,884 - INFO - Total recipes: 0/500
+2025-07-11 23:24:35,037 - WARNING - Request failed for https://www.101cookbooks.com/quick_recipes: 403 Client Error: Forbidden for url: https://www.101cookbooks.com/quick_recipes
+2025-07-11 23:24:35,040 - INFO - Total recipes: 0/500
+2025-07-11 23:24:39,070 - WARNING - Request failed for https://www.101cookbooks.com/instant_pot_recipes: 403 Client Error: Forbidden for url: https://www.101cookbooks.com/instant_pot_recipes
+2025-07-11 23:24:39,075 - INFO - Total recipes: 0/500
+2025-07-11 23:24:42,114 - WARNING - Request failed for https://www.101cookbooks.com/high_protein_recipes: 403 Client Error: Forbidden for url: https://www.101cookbooks.com/high_protein_recipes
+2025-07-11 23:24:42,117 - INFO - Total recipes: 0/500
+2025-07-11 23:24:45,732 - WARNING - Request failed for https://www.101cookbooks.com/pasta-recipes/: 403 Client Error: Forbidden for url: https://www.101cookbooks.com/pasta-recipes/
+2025-07-11 23:24:45,734 - INFO - Total recipes: 0/500
+2025-07-11 23:24:45,736 - INFO - Processing site: https://www.allrecipes.com/
+2025-07-11 23:24:52,422 - INFO - Total recipes: 0/500
+2025-07-11 23:24:56,056 - INFO - Total recipes: 0/500
+2025-07-11 23:25:01,173 - WARNING - Request failed for https://www.allrecipes.com/account/add-recipe: 403 Client Error: Forbidden for url: https://auth.allrecipes.com/realms/alrcom/protocol/openid-connect/auth?client_id=alrcom&response_type=code&redirect_uri=https%3A%2F%2Fwww.allrecipes.com%2Fauthentication%2Fcode-exchange&state=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ5T2M5eXVCUVRsZFRGcWlCclgwZnlibjhsQnpCOCtBMTRMMkNBalZvY05FPSIsInJlZGlyZWN0VXJsIjoiaHR0cHM6Ly93d3cuYWxscmVjaXBlcy5jb20vYWNjb3VudC9hZGQtcmVjaXBlIiwiaXNzIjoiRG90ZGFzaCBNZXJlZGl0aCIsImV4cCI6MTc1MjI1OTIwMCwiaWF0IjoxNzUyMjU2NTAwLCJoaWRlQ29uZmlybWF0aW9uQmFubmVyIjpmYWxzZX0.Y_h3XRQRy-cTltlrQCz9eq_EBr9xqktAddQCNDMDSoc&scope=openid&reg_source=3675
+2025-07-11 23:25:01,175 - INFO - Total recipes: 0/500
+2025-07-11 23:25:05,372 - INFO - Total recipes: 0/500
+2025-07-11 23:25:09,487 - INFO - Total recipes: 0/500
+2025-07-11 23:25:13,079 - INFO - Total recipes: 0/500
+2025-07-11 23:25:17,025 - INFO - Total recipes: 0/500
+2025-07-11 23:25:21,374 - INFO - Total recipes: 0/500
+2025-07-11 23:25:25,193 - INFO - Total recipes: 0/500
+2025-07-11 23:25:29,811 - INFO - Total recipes: 0/500
+2025-07-11 23:25:29,813 - INFO - Processing site: https://www.bbc.co.uk/food/recipes/
+2025-07-11 23:25:37,401 - INFO - Total recipes: 0/500
+2025-07-11 23:25:40,815 - INFO - Total recipes: 0/500
+2025-07-11 23:25:44,336 - INFO - Total recipes: 0/500
+2025-07-11 23:25:47,677 - INFO - Total recipes: 0/500
+2025-07-11 23:25:51,076 - INFO - Total recipes: 0/500
+2025-07-11 23:25:54,787 - INFO - Total recipes: 0/500
+2025-07-11 23:25:59,877 - INFO - Total recipes: 0/500
+2025-07-11 23:26:03,548 - INFO - Total recipes: 0/500
+2025-07-11 23:26:07,077 - INFO - Total recipes: 0/500
+2025-07-11 23:26:13,223 - INFO - Total recipes: 0/500
+2025-07-11 23:26:13,226 - INFO - Processing site: https://www.bbcgoodfood.com/recipes/
+2025-07-11 23:26:34,371 - WARNING - Request failed for https://www.bbcgoodfood.com/recipes/#main-navigation-popup: HTTPSConnectionPool(host='www.bbcgoodfood.com', port=443): Read timed out. (read timeout=15)
+2025-07-11 23:26:34,374 - INFO - Total recipes: 0/500
+2025-07-11 23:26:37,382 - INFO - Total recipes: 0/500
+2025-07-11 23:26:41,065 - INFO - Total recipes: 0/500
+2025-07-11 23:26:44,776 - INFO - Total recipes: 0/500
+2025-07-11 23:26:49,053 - INFO - Total recipes: 0/500
+2025-07-11 23:26:52,735 - INFO - Total recipes: 0/500
+2025-07-11 23:26:56,317 - INFO - Total recipes: 0/500
+2025-07-11 23:27:00,515 - INFO - Total recipes: 0/500
+2025-07-11 23:27:04,288 - INFO - Total recipes: 0/500
+2025-07-11 23:27:08,028 - INFO - Total recipes: 0/500
+2025-07-11 23:27:08,030 - INFO - Processing site: https://www.bonappetit.com/recipes/
+2025-07-11 23:27:18,639 - INFO - Total recipes: 0/500
+2025-07-11 23:27:52,187 - INFO - Processing site: https://www.closetcooking.com/
+2025-07-11 23:28:40,787 - INFO - Processing site: https://www.epicurious.com/recipes/
+2025-07-11 23:28:42,512 - WARNING - Request failed for https://www.epicurious.com/recipes/: 404 Client Error: Not Found for url: https://www.epicurious.com/recipes/
+2025-07-11 23:28:42,516 - WARNING - No recipe links found for https://www.epicurious.com/recipes/
+2025-07-11 23:28:42,517 - INFO - Processing site: https://www.finedininglovers.com/recipes/
+2025-07-11 23:29:10,821 - INFO - Total recipes: 10/500
+2025-07-11 23:29:29,619 - WARNING - Request failed for https://www.finedininglovers.com/explore/recipes/grilled-lamb-chops-provencal-recipe-chef-michael-michaelidis: HTTPSConnectionPool(host='www.finedininglovers.com', port=443): Read timed out. (read timeout=15)
+2025-07-11 23:29:29,620 - INFO - Total recipes: 10/500
+2025-07-11 23:29:31,264 - INFO - Total recipes: 10/500
+2025-07-11 23:29:49,597 - INFO - Processing site: https://www.foodrepublic.com/recipes/
+2025-07-11 23:29:52,190 - WARNING - Request failed for https://www.foodrepublic.com/recipes/: 404 Client Error: Not Found for url: https://www.foodrepublic.com/recipes/
+2025-07-11 23:29:52,192 - WARNING - No recipe links found for https://www.foodrepublic.com/recipes/
+2025-07-11 23:29:52,194 - INFO - Processing site: https://www.jamieoliver.com/recipes/
+2025-07-11 23:30:37,014 - INFO - Processing site: https://www.mybakingaddiction.com/recipes/
+2025-07-11 23:30:40,507 - WARNING - Request failed for https://www.mybakingaddiction.com/recipes/: 404 Client Error: Not Found for url: https://www.mybakingaddiction.com/recipes/
+2025-07-11 23:30:40,510 - WARNING - No recipe links found for https://www.mybakingaddiction.com/recipes/
+2025-07-11 23:30:40,512 - INFO - Processing site: https://www.paninihappy.com/
+2025-07-11 23:31:39,181 - INFO - Processing site: https://www.realsimple.com/food-recipes
+2025-07-11 23:32:23,072 - INFO - Processing site: https://www.simplyrecipes.com/recipes/
+2025-07-11 23:33:13,850 - INFO - Processing site: https://steamykitchen.com/recipes/
+2025-07-11 23:33:54,638 - INFO - Processing site: https://tastykitchen.com/recipes/
+2025-07-11 23:34:36,005 - INFO - Processing site: https://thepioneerwoman.com/food-cooking/recipes/
+2025-07-11 23:35:08,022 - WARNING - Request failed for https://thepioneerwoman.com/food-cooking/recipes/#main-content: HTTPSConnectionPool(host='thepioneerwoman.com', port=443): Read timed out. (read timeout=15)
+2025-07-11 23:35:47,476 - INFO - Total recipes: 20/500
+2025-07-11 23:35:54,079 - INFO - Processing site: https://www.thevintagemixer.com/recipe-index/
+2025-07-11 23:35:55,995 - WARNING - Request failed for https://www.thevintagemixer.com/recipe-index/: 404 Client Error: Not Found for url: https://www.thevintagemixer.com/recipe-index/
+2025-07-11 23:35:55,999 - WARNING - No recipe links found for https://www.thevintagemixer.com/recipe-index/
+2025-07-11 23:35:56,001 - INFO - Processing site: https://www.twopeasandtheirpod.com/recipes/
+2025-07-11 23:36:32,679 - INFO - Processing site: https://whatsgabycooking.com/recipes/
+2025-07-11 23:36:35,333 - WARNING - Request failed for https://whatsgabycooking.com/recipes/: 404 Client Error: Not Found for url: https://whatsgabycooking.com/recipes/
+2025-07-11 23:36:35,336 - WARNING - No recipe links found for https://whatsgabycooking.com/recipes/
+2025-07-11 23:36:35,351 - INFO - Successfully saved 21 recipes
+2025-07-13 00:23:02,810 - INFO - Processing site: https://101cookbooks.com/
+2025-07-13 00:23:14,052 - WARNING - Request failed for https://101cookbooks.com/: HTTPSConnectionPool(host='101cookbooks.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x00000250D6B18750>: Failed to resolve '101cookbooks.com' ([Errno 11001] getaddrinfo failed)"))
+2025-07-13 00:23:14,056 - WARNING - No recipe links found for https://101cookbooks.com/
+2025-07-13 00:23:14,059 - INFO - Processing site: https://www.allrecipes.com/
+2025-07-13 00:23:26,274 - WARNING - Request failed for https://www.allrecipes.com/: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2025-07-13 00:23:26,275 - WARNING - No recipe links found for https://www.allrecipes.com/
+2025-07-13 00:23:26,276 - INFO - Processing site: https://www.bbc.co.uk/food/recipes/
+2025-07-13 00:23:46,155 - INFO - Total recipes: 0/500
+2025-07-13 00:23:48,953 - INFO - Total recipes: 0/500
+2025-07-13 00:23:51,734 - INFO - Total recipes: 0/500
+2025-07-13 00:23:54,599 - WARNING - Request failed for https://www.bbc.co.uk/food/dishes: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2025-07-13 00:23:54,601 - INFO - Total recipes: 0/500
+2025-07-13 00:23:54,618 - WARNING - Request failed for https://www.bbc.co.uk/food: HTTPSConnectionPool(host='www.bbc.co.uk', port=443): Max retries exceeded with url: /food (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x00000250D6BDE490>: Failed to resolve 'www.bbc.co.uk' ([Errno 11001] getaddrinfo failed)"))
+2025-07-13 00:23:54,619 - INFO - Total recipes: 0/500
+2025-07-13 00:23:54,649 - WARNING - Request failed for https://www.bbc.co.uk/food/seasons: HTTPSConnectionPool(host='www.bbc.co.uk', port=443): Max retries exceeded with url: /food/seasons (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x00000250D6BDC610>: Failed to resolve 'www.bbc.co.uk' ([Errno 11001] getaddrinfo failed)"))
+2025-07-13 00:23:54,663 - INFO - Total recipes: 0/500
+2025-07-13 00:23:54,690 - WARNING - Request failed for https://www.bbc.co.uk/food/recipes/: HTTPSConnectionPool(host='www.bbc.co.uk', port=443): Max retries exceeded with url: /food/recipes/ (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x00000250D6B76CD0>: Failed to resolve 'www.bbc.co.uk' ([Errno 11001] getaddrinfo failed)"))
+2025-07-13 00:23:54,698 - INFO - Total recipes: 0/500
+2025-07-13 00:23:54,721 - WARNING - Request failed for https://www.bbc.co.uk/food/occasions: HTTPSConnectionPool(host='www.bbc.co.uk', port=443): Max retries exceeded with url: /food/occasions (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x00000250D6B74BD0>: Failed to resolve 'www.bbc.co.uk' ([Errno 11001] getaddrinfo failed)"))
+2025-07-13 00:23:54,729 - INFO - Total recipes: 0/500
+2025-07-13 00:23:54,751 - WARNING - Request failed for https://www.bbc.co.uk/food/recipes/#orbit-more-drawer: HTTPSConnectionPool(host='www.bbc.co.uk', port=443): Max retries exceeded with url: /food/recipes/ (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x00000250D6BDC350>: Failed to resolve 'www.bbc.co.uk' ([Errno 11001] getaddrinfo failed)"))
+2025-07-13 00:23:54,758 - INFO - Total recipes: 0/500
+2025-07-13 00:23:54,770 - WARNING - Request failed for https://www.bbc.co.uk/food/ingredients: HTTPSConnectionPool(host='www.bbc.co.uk', port=443): Max retries exceeded with url: /food/ingredients (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x00000250D6BDDCD0>: Failed to resolve 'www.bbc.co.uk' ([Errno 11001] getaddrinfo failed)"))
+2025-07-13 00:23:54,776 - INFO - Total recipes: 0/500
+2025-07-13 00:23:54,800 - INFO - Processing site: https://www.bbcgoodfood.com/recipes/
+2025-07-13 00:23:54,815 - WARNING - Request failed for https://www.bbcgoodfood.com/recipes/: HTTPSConnectionPool(host='www.bbcgoodfood.com', port=443): Max retries exceeded with url: /recipes/ (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x00000250D6D3FE50>: Failed to resolve 'www.bbcgoodfood.com' ([Errno 11001] getaddrinfo failed)"))
+2025-07-13 00:23:54,817 - WARNING - No recipe links found for https://www.bbcgoodfood.com/recipes/
+2025-07-13 00:23:54,819 - INFO - Processing site: https://www.bonappetit.com/recipes/
+2025-07-13 00:23:54,828 - WARNING - Request failed for https://www.bonappetit.com/recipes/: HTTPSConnectionPool(host='www.bonappetit.com', port=443): Max retries exceeded with url: /recipes/ (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x00000250D6B77910>: Failed to resolve 'www.bonappetit.com' ([Errno 11001] getaddrinfo failed)"))
+2025-07-13 00:23:54,830 - WARNING - No recipe links found for https://www.bonappetit.com/recipes/
+2025-07-13 00:23:54,832 - INFO - Processing site: https://www.closetcooking.com/
+2025-07-13 00:23:54,840 - WARNING - Request failed for https://www.closetcooking.com/: HTTPSConnectionPool(host='www.closetcooking.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x00000250D6B37350>: Failed to resolve 'www.closetcooking.com' ([Errno 11001] getaddrinfo failed)"))
+2025-07-13 00:23:54,844 - WARNING - No recipe links found for https://www.closetcooking.com/
+2025-07-13 00:23:54,846 - INFO - Processing site: https://www.epicurious.com/recipes/
+2025-07-13 00:23:54,852 - WARNING - Request failed for https://www.epicurious.com/recipes/: HTTPSConnectionPool(host='www.epicurious.com', port=443): Max retries exceeded with url: /recipes/ (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x00000250D6B35550>: Failed to resolve 'www.epicurious.com' ([Errno 11001] getaddrinfo failed)"))
+2025-07-13 00:23:54,854 - WARNING - No recipe links found for https://www.epicurious.com/recipes/
+2025-07-13 00:23:54,855 - INFO - Processing site: https://www.finedininglovers.com/recipes/
+2025-07-13 00:23:54,863 - WARNING - Request failed for https://www.finedininglovers.com/recipes/: HTTPSConnectionPool(host='www.finedininglovers.com', port=443): Max retries exceeded with url: /recipes/ (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x00000250D6B774D0>: Failed to resolve 'www.finedininglovers.com' ([Errno 11001] getaddrinfo failed)"))
+2025-07-13 00:23:54,864 - WARNING - No recipe links found for https://www.finedininglovers.com/recipes/
+2025-07-13 00:23:54,866 - INFO - Processing site: https://www.foodrepublic.com/recipes/
+2025-07-13 00:23:54,872 - WARNING - Request failed for https://www.foodrepublic.com/recipes/: HTTPSConnectionPool(host='www.foodrepublic.com', port=443): Max retries exceeded with url: /recipes/ (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x00000250D6B759D0>: Failed to resolve 'www.foodrepublic.com' ([Errno 11001] getaddrinfo failed)"))
+2025-07-13 00:23:54,872 - WARNING - No recipe links found for https://www.foodrepublic.com/recipes/
+2025-07-13 00:23:54,873 - INFO - Processing site: https://www.jamieoliver.com/recipes/
+2025-07-13 00:23:54,879 - WARNING - Request failed for https://www.jamieoliver.com/recipes/: HTTPSConnectionPool(host='www.jamieoliver.com', port=443): Max retries exceeded with url: /recipes/ (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x00000250D6BDCAD0>: Failed to resolve 'www.jamieoliver.com' ([Errno 11001] getaddrinfo failed)"))
+2025-07-13 00:23:54,881 - WARNING - No recipe links found for https://www.jamieoliver.com/recipes/
+2025-07-13 00:23:54,883 - INFO - Processing site: https://www.mybakingaddiction.com/recipes/
+2025-07-13 00:23:54,888 - WARNING - Request failed for https://www.mybakingaddiction.com/recipes/: HTTPSConnectionPool(host='www.mybakingaddiction.com', port=443): Max retries exceeded with url: /recipes/ (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x00000250D6BDCED0>: Failed to resolve 'www.mybakingaddiction.com' ([Errno 11001] getaddrinfo failed)"))
+2025-07-13 00:23:54,891 - WARNING - No recipe links found for https://www.mybakingaddiction.com/recipes/
+2025-07-13 00:23:54,892 - INFO - Processing site: https://www.paninihappy.com/
+2025-07-13 00:23:54,897 - WARNING - Request failed for https://www.paninihappy.com/: HTTPSConnectionPool(host='www.paninihappy.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x00000250D6B354D0>: Failed to resolve 'www.paninihappy.com' ([Errno 11001] getaddrinfo failed)"))
+2025-07-13 00:23:54,899 - WARNING - No recipe links found for https://www.paninihappy.com/
+2025-07-13 00:23:54,902 - INFO - Processing site: https://www.realsimple.com/food-recipes
+2025-07-13 00:23:54,909 - WARNING - Request failed for https://www.realsimple.com/food-recipes: HTTPSConnectionPool(host='www.realsimple.com', port=443): Max retries exceeded with url: /food-recipes (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x00000250D6B37D50>: Failed to resolve 'www.realsimple.com' ([Errno 11001] getaddrinfo failed)"))
+2025-07-13 00:23:54,910 - WARNING - No recipe links found for https://www.realsimple.com/food-recipes
+2025-07-13 00:23:54,916 - INFO - Processing site: https://www.simplyrecipes.com/recipes/
+2025-07-13 00:23:54,927 - WARNING - Request failed for https://www.simplyrecipes.com/recipes/: HTTPSConnectionPool(host='www.simplyrecipes.com', port=443): Max retries exceeded with url: /recipes/ (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x00000250D6BDCC10>: Failed to resolve 'www.simplyrecipes.com' ([Errno 11001] getaddrinfo failed)"))
+2025-07-13 00:23:54,928 - WARNING - No recipe links found for https://www.simplyrecipes.com/recipes/
+2025-07-13 00:23:54,929 - INFO - Processing site: https://steamykitchen.com/recipes/
+2025-07-13 00:23:54,935 - WARNING - Request failed for https://steamykitchen.com/recipes/: HTTPSConnectionPool(host='steamykitchen.com', port=443): Max retries exceeded with url: /recipes/ (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x00000250D6BDDC10>: Failed to resolve 'steamykitchen.com' ([Errno 11001] getaddrinfo failed)"))
+2025-07-13 00:23:54,935 - WARNING - No recipe links found for https://steamykitchen.com/recipes/
+2025-07-13 00:23:54,936 - INFO - Processing site: https://tastykitchen.com/recipes/
+2025-07-13 00:23:54,946 - WARNING - Request failed for https://tastykitchen.com/recipes/: HTTPSConnectionPool(host='tastykitchen.com', port=443): Max retries exceeded with url: /recipes/ (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x00000250D6D0F650>: Failed to resolve 'tastykitchen.com' ([Errno 11001] getaddrinfo failed)"))
+2025-07-13 00:23:54,947 - WARNING - No recipe links found for https://tastykitchen.com/recipes/
+2025-07-13 00:23:54,949 - INFO - Processing site: https://thepioneerwoman.com/food-cooking/recipes/
+2025-07-13 00:23:54,960 - WARNING - Request failed for https://thepioneerwoman.com/food-cooking/recipes/: HTTPSConnectionPool(host='thepioneerwoman.com', port=443): Max retries exceeded with url: /food-cooking/recipes/ (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x00000250D6B359D0>: Failed to resolve 'thepioneerwoman.com' ([Errno 11001] getaddrinfo failed)"))
+2025-07-13 00:23:54,961 - WARNING - No recipe links found for https://thepioneerwoman.com/food-cooking/recipes/
+2025-07-13 00:23:54,964 - INFO - Processing site: https://www.thevintagemixer.com/recipe-index/
+2025-07-13 00:23:54,971 - WARNING - Request failed for https://www.thevintagemixer.com/recipe-index/: HTTPSConnectionPool(host='www.thevintagemixer.com', port=443): Max retries exceeded with url: /recipe-index/ (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x00000250D6B358D0>: Failed to resolve 'www.thevintagemixer.com' ([Errno 11001] getaddrinfo failed)"))
+2025-07-13 00:23:54,972 - WARNING - No recipe links found for https://www.thevintagemixer.com/recipe-index/
+2025-07-13 00:23:54,974 - INFO - Processing site: https://www.twopeasandtheirpod.com/recipes/
+2025-07-13 00:23:54,980 - WARNING - Request failed for https://www.twopeasandtheirpod.com/recipes/: HTTPSConnectionPool(host='www.twopeasandtheirpod.com', port=443): Max retries exceeded with url: /recipes/ (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x00000250D6B772D0>: Failed to resolve 'www.twopeasandtheirpod.com' ([Errno 11001] getaddrinfo failed)"))
+2025-07-13 00:23:54,981 - WARNING - No recipe links found for https://www.twopeasandtheirpod.com/recipes/
+2025-07-13 00:23:54,982 - INFO - Processing site: https://whatsgabycooking.com/recipes/
+2025-07-13 00:23:54,993 - WARNING - Request failed for https://whatsgabycooking.com/recipes/: HTTPSConnectionPool(host='whatsgabycooking.com', port=443): Max retries exceeded with url: /recipes/ (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x00000250D6B29390>: Failed to resolve 'whatsgabycooking.com' ([Errno 11001] getaddrinfo failed)"))
+2025-07-13 00:23:54,994 - WARNING - No recipe links found for https://whatsgabycooking.com/recipes/
+2025-07-13 00:23:55,011 - INFO - Successfully saved 0 recipes
+2025-07-13 00:26:06,389 - INFO - Processing site: https://101cookbooks.com/
+2025-07-13 00:26:06,398 - WARNING - Request failed for https://101cookbooks.com/: HTTPSConnectionPool(host='101cookbooks.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001B104688850>: Failed to resolve '101cookbooks.com' ([Errno 11001] getaddrinfo failed)"))
+2025-07-13 00:26:06,399 - WARNING - No recipe links found for https://101cookbooks.com/
+2025-07-13 00:26:06,399 - INFO - Processing site: https://www.allrecipes.com/
+2025-07-13 00:26:06,402 - WARNING - Request failed for https://www.allrecipes.com/: HTTPSConnectionPool(host='www.allrecipes.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001B10468A790>: Failed to resolve 'www.allrecipes.com' ([Errno 11001] getaddrinfo failed)"))
+2025-07-13 00:26:06,403 - WARNING - No recipe links found for https://www.allrecipes.com/
+2025-07-13 00:26:06,403 - INFO - Processing site: https://www.bbc.co.uk/food/recipes/
+2025-07-13 00:26:06,407 - WARNING - Request failed for https://www.bbc.co.uk/food/recipes/: HTTPSConnectionPool(host='www.bbc.co.uk', port=443): Max retries exceeded with url: /food/recipes/ (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001B1046948D0>: Failed to resolve 'www.bbc.co.uk' ([Errno 11001] getaddrinfo failed)"))
+2025-07-13 00:26:06,408 - WARNING - No recipe links found for https://www.bbc.co.uk/food/recipes/
+2025-07-13 00:26:06,408 - INFO - Processing site: https://www.bbcgoodfood.com/recipes/
+2025-07-13 00:26:06,412 - WARNING - Request failed for https://www.bbcgoodfood.com/recipes/: HTTPSConnectionPool(host='www.bbcgoodfood.com', port=443): Max retries exceeded with url: /recipes/ (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001B104670C10>: Failed to resolve 'www.bbcgoodfood.com' ([Errno 11001] getaddrinfo failed)"))
+2025-07-13 00:26:06,413 - WARNING - No recipe links found for https://www.bbcgoodfood.com/recipes/
+2025-07-13 00:26:06,413 - INFO - Processing site: https://www.bonappetit.com/recipes/
+2025-07-13 00:26:06,416 - WARNING - Request failed for https://www.bonappetit.com/recipes/: HTTPSConnectionPool(host='www.bonappetit.com', port=443): Max retries exceeded with url: /recipes/ (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001B104695610>: Failed to resolve 'www.bonappetit.com' ([Errno 11001] getaddrinfo failed)"))
+2025-07-13 00:26:06,416 - WARNING - No recipe links found for https://www.bonappetit.com/recipes/
+2025-07-13 00:26:06,417 - INFO - Processing site: https://www.closetcooking.com/
+2025-07-13 00:26:06,420 - WARNING - Request failed for https://www.closetcooking.com/: HTTPSConnectionPool(host='www.closetcooking.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001B104697110>: Failed to resolve 'www.closetcooking.com' ([Errno 11001] getaddrinfo failed)"))
+2025-07-13 00:26:06,420 - WARNING - No recipe links found for https://www.closetcooking.com/
+2025-07-13 00:26:06,421 - INFO - Processing site: https://www.epicurious.com/recipes/
+2025-07-13 00:26:06,423 - WARNING - Request failed for https://www.epicurious.com/recipes/: HTTPSConnectionPool(host='www.epicurious.com', port=443): Max retries exceeded with url: /recipes/ (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001B1046A0E50>: Failed to resolve 'www.epicurious.com' ([Errno 11001] getaddrinfo failed)"))
+2025-07-13 00:26:06,424 - WARNING - No recipe links found for https://www.epicurious.com/recipes/
+2025-07-13 00:26:06,424 - INFO - Processing site: https://www.finedininglovers.com/recipes/
+2025-07-13 00:26:06,426 - WARNING - Request failed for https://www.finedininglovers.com/recipes/: HTTPSConnectionPool(host='www.finedininglovers.com', port=443): Max retries exceeded with url: /recipes/ (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001B1046A2A90>: Failed to resolve 'www.finedininglovers.com' ([Errno 11001] getaddrinfo failed)"))
+2025-07-13 00:26:06,427 - WARNING - No recipe links found for https://www.finedininglovers.com/recipes/
+2025-07-13 00:26:06,427 - INFO - Processing site: https://www.foodrepublic.com/recipes/
+2025-07-13 00:26:06,429 - WARNING - Request failed for https://www.foodrepublic.com/recipes/: HTTPSConnectionPool(host='www.foodrepublic.com', port=443): Max retries exceeded with url: /recipes/ (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001B1046AC710>: Failed to resolve 'www.foodrepublic.com' ([Errno 11001] getaddrinfo failed)"))
+2025-07-13 00:26:06,430 - WARNING - No recipe links found for https://www.foodrepublic.com/recipes/
+2025-07-13 00:26:06,430 - INFO - Processing site: https://www.jamieoliver.com/recipes/
+2025-07-13 00:26:06,432 - WARNING - Request failed for https://www.jamieoliver.com/recipes/: HTTPSConnectionPool(host='www.jamieoliver.com', port=443): Max retries exceeded with url: /recipes/ (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001B1046A14D0>: Failed to resolve 'www.jamieoliver.com' ([Errno 11001] getaddrinfo failed)"))
+2025-07-13 00:26:06,433 - WARNING - No recipe links found for https://www.jamieoliver.com/recipes/
+2025-07-13 00:26:06,433 - INFO - Processing site: https://www.mybakingaddiction.com/recipes/
+2025-07-13 00:26:06,436 - WARNING - Request failed for https://www.mybakingaddiction.com/recipes/: HTTPSConnectionPool(host='www.mybakingaddiction.com', port=443): Max retries exceeded with url: /recipes/ (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001B1046A0090>: Failed to resolve 'www.mybakingaddiction.com' ([Errno 11001] getaddrinfo failed)"))
+2025-07-13 00:26:06,437 - WARNING - No recipe links found for https://www.mybakingaddiction.com/recipes/
+2025-07-13 00:26:06,437 - INFO - Processing site: https://www.paninihappy.com/
+2025-07-13 00:26:06,440 - WARNING - Request failed for https://www.paninihappy.com/: HTTPSConnectionPool(host='www.paninihappy.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001B104696E10>: Failed to resolve 'www.paninihappy.com' ([Errno 11001] getaddrinfo failed)"))
+2025-07-13 00:26:06,441 - WARNING - No recipe links found for https://www.paninihappy.com/
+2025-07-13 00:26:06,441 - INFO - Processing site: https://www.realsimple.com/food-recipes
+2025-07-13 00:26:06,443 - WARNING - Request failed for https://www.realsimple.com/food-recipes: HTTPSConnectionPool(host='www.realsimple.com', port=443): Max retries exceeded with url: /food-recipes (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001B104670F50>: Failed to resolve 'www.realsimple.com' ([Errno 11001] getaddrinfo failed)"))
+2025-07-13 00:26:06,443 - WARNING - No recipe links found for https://www.realsimple.com/food-recipes
+2025-07-13 00:26:06,443 - INFO - Processing site: https://www.simplyrecipes.com/recipes/
+2025-07-13 00:26:06,446 - WARNING - Request failed for https://www.simplyrecipes.com/recipes/: HTTPSConnectionPool(host='www.simplyrecipes.com', port=443): Max retries exceeded with url: /recipes/ (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001B1046ACF10>: Failed to resolve 'www.simplyrecipes.com' ([Errno 11001] getaddrinfo failed)"))
+2025-07-13 00:26:06,446 - WARNING - No recipe links found for https://www.simplyrecipes.com/recipes/
+2025-07-13 00:26:06,447 - INFO - Processing site: https://steamykitchen.com/recipes/
+2025-07-13 00:26:06,450 - WARNING - Request failed for https://steamykitchen.com/recipes/: HTTPSConnectionPool(host='steamykitchen.com', port=443): Max retries exceeded with url: /recipes/ (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001B1046AEBD0>: Failed to resolve 'steamykitchen.com' ([Errno 11001] getaddrinfo failed)"))
+2025-07-13 00:26:06,451 - WARNING - No recipe links found for https://steamykitchen.com/recipes/
+2025-07-13 00:26:06,451 - INFO - Processing site: https://tastykitchen.com/recipes/
+2025-07-13 00:26:06,453 - WARNING - Request failed for https://tastykitchen.com/recipes/: HTTPSConnectionPool(host='tastykitchen.com', port=443): Max retries exceeded with url: /recipes/ (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001B104695050>: Failed to resolve 'tastykitchen.com' ([Errno 11001] getaddrinfo failed)"))
+2025-07-13 00:26:06,454 - WARNING - No recipe links found for https://tastykitchen.com/recipes/
+2025-07-13 00:26:06,455 - INFO - Processing site: https://thepioneerwoman.com/food-cooking/recipes/
+2025-07-13 00:26:06,458 - WARNING - Request failed for https://thepioneerwoman.com/food-cooking/recipes/: HTTPSConnectionPool(host='thepioneerwoman.com', port=443): Max retries exceeded with url: /food-cooking/recipes/ (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001B1046961D0>: Failed to resolve 'thepioneerwoman.com' ([Errno 11001] getaddrinfo failed)"))
+2025-07-13 00:26:06,459 - WARNING - No recipe links found for https://thepioneerwoman.com/food-cooking/recipes/
+2025-07-13 00:26:06,459 - INFO - Processing site: https://www.thevintagemixer.com/recipe-index/
+2025-07-13 00:26:06,462 - WARNING - Request failed for https://www.thevintagemixer.com/recipe-index/: HTTPSConnectionPool(host='www.thevintagemixer.com', port=443): Max retries exceeded with url: /recipe-index/ (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001B10468A3D0>: Failed to resolve 'www.thevintagemixer.com' ([Errno 11001] getaddrinfo failed)"))
+2025-07-13 00:26:06,462 - WARNING - No recipe links found for https://www.thevintagemixer.com/recipe-index/
+2025-07-13 00:26:06,462 - INFO - Processing site: https://www.twopeasandtheirpod.com/recipes/
+2025-07-13 00:26:06,465 - WARNING - Request failed for https://www.twopeasandtheirpod.com/recipes/: HTTPSConnectionPool(host='www.twopeasandtheirpod.com', port=443): Max retries exceeded with url: /recipes/ (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001B1046A1710>: Failed to resolve 'www.twopeasandtheirpod.com' ([Errno 11001] getaddrinfo failed)"))
+2025-07-13 00:26:06,466 - WARNING - No recipe links found for https://www.twopeasandtheirpod.com/recipes/
+2025-07-13 00:26:06,466 - INFO - Processing site: https://whatsgabycooking.com/recipes/
+2025-07-13 00:26:06,469 - WARNING - Request failed for https://whatsgabycooking.com/recipes/: HTTPSConnectionPool(host='whatsgabycooking.com', port=443): Max retries exceeded with url: /recipes/ (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001B1046AF290>: Failed to resolve 'whatsgabycooking.com' ([Errno 11001] getaddrinfo failed)"))
+2025-07-13 00:26:06,469 - WARNING - No recipe links found for https://whatsgabycooking.com/recipes/
+2025-07-13 00:26:06,474 - INFO - Successfully saved 0 recipes
+2025-07-13 18:27:03,996 - INFO - Processing site: https://101cookbooks.com/
+2025-07-13 18:27:08,606 - WARNING - Request failed for https://www.101cookbooks.com/vegetarian_recipes: 403 Client Error: Forbidden for url: https://www.101cookbooks.com/vegetarian_recipes
+2025-07-13 18:27:08,606 - INFO - Total recipes: 0/500
+2025-07-13 18:27:11,515 - WARNING - Request failed for https://www.101cookbooks.com/pasta-recipes/: 403 Client Error: Forbidden for url: https://www.101cookbooks.com/pasta-recipes/
+2025-07-13 18:27:11,516 - INFO - Total recipes: 0/500
+2025-07-13 18:27:14,682 - WARNING - Request failed for https://www.101cookbooks.com/instant_pot_recipes: 403 Client Error: Forbidden for url: https://www.101cookbooks.com/instant_pot_recipes
+2025-07-13 18:27:14,685 - INFO - Total recipes: 0/500
+2025-07-13 18:27:17,301 - WARNING - Request failed for https://www.101cookbooks.com/vegan-recipes/: 403 Client Error: Forbidden for url: https://www.101cookbooks.com/vegan-recipes/
+2025-07-13 18:27:17,304 - INFO - Total recipes: 0/500
+2025-07-13 18:27:19,873 - WARNING - Request failed for https://www.101cookbooks.com/quick_recipes: 403 Client Error: Forbidden for url: https://www.101cookbooks.com/quick_recipes
+2025-07-13 18:27:19,875 - INFO - Total recipes: 0/500
+2025-07-13 18:27:22,444 - WARNING - Request failed for https://www.101cookbooks.com/whole_grain_recipes: 403 Client Error: Forbidden for url: https://www.101cookbooks.com/whole_grain_recipes
+2025-07-13 18:27:22,447 - INFO - Total recipes: 0/500
+2025-07-13 18:27:25,091 - WARNING - Request failed for https://www.101cookbooks.com/holiday_recipes: 403 Client Error: Forbidden for url: https://www.101cookbooks.com/holiday_recipes
+2025-07-13 18:27:25,091 - INFO - Total recipes: 0/500
+2025-07-13 18:27:27,647 - WARNING - Request failed for https://www.101cookbooks.com/high_protein_recipes: 403 Client Error: Forbidden for url: https://www.101cookbooks.com/high_protein_recipes
+2025-07-13 18:27:27,652 - INFO - Total recipes: 0/500
+2025-07-13 18:27:30,590 - WARNING - Request failed for https://www.101cookbooks.com/soup-recipes/: 403 Client Error: Forbidden for url: https://www.101cookbooks.com/soup-recipes/
+2025-07-13 18:27:30,593 - INFO - Total recipes: 0/500
+2025-07-13 18:27:34,341 - WARNING - Request failed for https://www.101cookbooks.com/salad-recipes/: 403 Client Error: Forbidden for url: https://www.101cookbooks.com/salad-recipes/
+2025-07-13 18:27:34,344 - INFO - Total recipes: 0/500
+2025-07-13 18:27:34,345 - INFO - Processing site: https://www.allrecipes.com/
+2025-07-13 18:27:41,000 - INFO - Total recipes: 0/500
+2025-07-13 18:27:44,462 - INFO - Total recipes: 0/500
+2025-07-13 18:27:53,548 - INFO - Total recipes: 0/500
+2025-07-13 18:27:56,889 - INFO - Total recipes: 0/500
+2025-07-13 18:28:01,174 - INFO - Total recipes: 0/500
+2025-07-13 18:28:05,350 - INFO - Total recipes: 0/500
+2025-07-13 18:28:37,219 - WARNING - Request failed for https://www.allrecipes.com/recipes/16099/everyday-cooking/comfort-food/: HTTPSConnectionPool(host='www.allrecipes.com', port=443): Max retries exceeded with url: /recipes/16099/everyday-cooking/comfort-food/ (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x000001C67C92B490>, 'Connection to www.allrecipes.com timed out. (connect timeout=15)'))
+2025-07-13 18:28:37,220 - INFO - Total recipes: 0/500
+2025-07-13 18:29:09,671 - WARNING - Request failed for https://www.allrecipes.com/account/add-recipe: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2025-07-13 18:29:09,671 - INFO - Total recipes: 0/500
+2025-07-13 18:29:11,069 - INFO - Total recipes: 0/500
+2025-07-13 18:29:14,330 - INFO - Total recipes: 0/500
+2025-07-13 18:29:14,332 - INFO - Processing site: https://www.bbc.co.uk/food/recipes/
+2025-07-13 18:29:20,729 - INFO - Total recipes: 0/500
+2025-07-13 18:29:23,629 - INFO - Total recipes: 0/500
+2025-07-13 18:29:41,951 - WARNING - Request failed for https://www.bbc.co.uk/food/seasons: HTTPSConnectionPool(host='www.bbc.co.uk', port=443): Read timed out. (read timeout=15)
+2025-07-13 18:29:41,952 - INFO - Total recipes: 0/500
+2025-07-13 18:29:43,594 - INFO - Total recipes: 0/500
+2025-07-13 18:29:48,098 - INFO - Total recipes: 0/500
+2025-07-13 18:29:51,202 - INFO - Total recipes: 0/500
+2025-07-13 18:29:54,194 - INFO - Total recipes: 0/500
+2025-07-13 18:29:59,478 - INFO - Total recipes: 0/500
+2025-07-13 18:30:05,434 - INFO - Total recipes: 0/500
+2025-07-13 18:30:08,665 - INFO - Total recipes: 0/500
+2025-07-13 18:30:08,666 - INFO - Processing site: https://www.bbcgoodfood.com/recipes/
+2025-07-13 18:30:15,513 - INFO - Total recipes: 0/500
+2025-07-13 18:30:19,195 - INFO - Total recipes: 0/500
+2025-07-13 18:30:21,656 - INFO - Total recipes: 0/500
+2025-07-13 18:30:25,359 - INFO - Total recipes: 0/500
+2025-07-13 18:30:28,965 - INFO - Total recipes: 0/500
+2025-07-13 18:30:32,005 - INFO - Total recipes: 0/500
+2025-07-13 18:30:36,028 - INFO - Total recipes: 0/500
+2025-07-13 18:30:39,108 - INFO - Total recipes: 0/500
+2025-07-13 18:30:42,077 - INFO - Total recipes: 0/500
+2025-07-13 18:30:45,471 - INFO - Total recipes: 0/500
+2025-07-13 18:30:45,472 - INFO - Processing site: https://www.bonappetit.com/recipes/
+2025-07-13 18:31:26,831 - INFO - Processing site: https://www.closetcooking.com/
+2025-07-13 18:32:12,343 - INFO - Processing site: https://www.epicurious.com/recipes/
+2025-07-13 18:32:14,659 - WARNING - Request failed for https://www.epicurious.com/recipes/: 404 Client Error: Not Found for url: https://www.epicurious.com/recipes/
+2025-07-13 18:32:14,659 - WARNING - No recipe links found for https://www.epicurious.com/recipes/
+2025-07-13 18:32:14,659 - INFO - Processing site: https://www.finedininglovers.com/recipes/
+2025-07-13 18:32:40,336 - INFO - Total recipes: 10/500
+2025-07-13 18:33:12,277 - WARNING - Request failed for https://www.finedininglovers.com/explore/recipes/eggplant-agebitashi: HTTPSConnectionPool(host='www.finedininglovers.com', port=443): Read timed out. (read timeout=15)
+2025-07-13 18:33:14,455 - INFO - Processing site: https://www.foodrepublic.com/recipes/
+2025-07-13 18:33:17,161 - WARNING - Request failed for https://www.foodrepublic.com/recipes/: 404 Client Error: Not Found for url: https://www.foodrepublic.com/recipes/
+2025-07-13 18:33:17,161 - WARNING - No recipe links found for https://www.foodrepublic.com/recipes/
+2025-07-13 18:33:17,161 - INFO - Processing site: https://www.jamieoliver.com/recipes/
+2025-07-13 18:33:56,921 - INFO - Processing site: https://www.mybakingaddiction.com/recipes/
+2025-07-13 18:33:59,741 - WARNING - Request failed for https://www.mybakingaddiction.com/recipes/: 404 Client Error: Not Found for url: https://www.mybakingaddiction.com/recipes/
+2025-07-13 18:33:59,741 - WARNING - No recipe links found for https://www.mybakingaddiction.com/recipes/
+2025-07-13 18:33:59,748 - INFO - Processing site: https://www.paninihappy.com/
+2025-07-13 18:34:35,189 - INFO - Processing site: https://www.realsimple.com/food-recipes
+2025-07-13 18:35:08,180 - INFO - Processing site: https://www.simplyrecipes.com/recipes/
+2025-07-13 18:35:46,522 - INFO - Processing site: https://steamykitchen.com/recipes/
+2025-07-13 18:36:22,014 - INFO - Processing site: https://tastykitchen.com/recipes/
+2025-07-13 18:37:00,243 - INFO - Processing site: https://thepioneerwoman.com/food-cooking/recipes/
+2025-07-13 18:37:38,134 - INFO - Total recipes: 20/500
+2025-07-13 18:37:46,972 - INFO - Total recipes: 20/500
+2025-07-13 18:37:54,051 - INFO - Processing site: https://www.thevintagemixer.com/recipe-index/
+2025-07-13 18:37:55,638 - WARNING - Request failed for https://www.thevintagemixer.com/recipe-index/: 404 Client Error: Not Found for url: https://www.thevintagemixer.com/recipe-index/
+2025-07-13 18:37:55,641 - WARNING - No recipe links found for https://www.thevintagemixer.com/recipe-index/
+2025-07-13 18:37:55,642 - INFO - Processing site: https://www.twopeasandtheirpod.com/recipes/
+2025-07-13 18:38:28,458 - INFO - Processing site: https://whatsgabycooking.com/recipes/
+2025-07-13 18:38:31,854 - WARNING - Request failed for https://whatsgabycooking.com/recipes/: 404 Client Error: Not Found for url: https://whatsgabycooking.com/recipes/
+2025-07-13 18:38:31,857 - WARNING - No recipe links found for https://whatsgabycooking.com/recipes/
+2025-07-13 18:38:31,865 - INFO - Successfully saved 21 recipes
