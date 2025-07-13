@@ -72,7 +72,7 @@ A comprehensive collection of web scrapers for extracting recipes from popular c
 
 │   ├── scraper.py                   # Experimental scraper
 
-│   └── scrpermod.py                 # Advanced bulk scraper
+│   └── scrapermod.py                 # Advanced bulk scraper
 
 ├── data/
 
