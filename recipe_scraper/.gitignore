@@ -1,0 +1,71 @@
+# Python artifacts
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pyz
+*.pyw
+*.egg-info/
+.pytest_cache/
+dist/
+build/
+
+# Virtual environments
+venv/
+.venv/
+env/
+.env/
+venv*/
+env*/
+ENV*/
+
+# Selenium/webdriver files
+chromedriver*
+geckodriver*
+msedgedriver*
+*.log
+webdriver/
+
+# Output directories
+recipe_output/
+data/recipes.json
+data/recipes.jsonl
+data/recipes_*.csv
+data/scraper.log
+
+# Debug/error files
+*.html
+*.error
+debug/
+errors/
+
+# Environment variables
+.env
+.secrets
+config.ini
+
+# IDE files
+.idea/
+.vscode/
+*.code-workspace
+*.sublime-project
+*.sublime-workspace
+
+# OS metadata
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Jupyter notebooks
+*.ipynb
+*.ipynb_checkpoints/
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
+*~
+~$*
+
+# Sample dataset exception (keep your sample data)
+!data/recipes.csv
